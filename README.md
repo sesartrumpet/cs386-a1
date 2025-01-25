@@ -7,5 +7,5 @@ To install this to your car, please use [pip](https://pypi.org/project/pip/)
 - Victor Rodriguez
 - Elijah Sprouse
 - Kyle Radzvin
-- Manjot Kaur
+- **Manjot Kaur**
 - Vikram Singh
